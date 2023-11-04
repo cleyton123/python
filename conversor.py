@@ -36,3 +36,5 @@ while True:
  
  else:
     print('ERRO.DIGITE AS OPÇÕES [1],[2] OU [3].')
+
+    
